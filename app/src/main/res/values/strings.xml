@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentSystem721</string>
+    <string name="textgeo">Введите координаты или название</string>
+    <string name="btnSearch">Поиск</string>
+</resources>
